@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yeobster</h1>
-<h3 align="center">I always learn, make, and enjoy.</h3>
+<h1 align="left">Hi 👋, I'm yeobster</h1>
+<h3 align="left">I always learn, make, and enjoy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeobster&label=Profile%20views&color=0e75b6&style=flat" alt="yeobster" /> </p>
 
